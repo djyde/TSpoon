@@ -1,6 +1,6 @@
 # TSpoon
 
-Writing HammeSpoon with TypeScript.
+Writing HammerSpoon with TypeScript.
 
 ## Usage
 
